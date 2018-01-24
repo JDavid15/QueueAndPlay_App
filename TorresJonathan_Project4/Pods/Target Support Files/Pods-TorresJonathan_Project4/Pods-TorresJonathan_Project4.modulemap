@@ -1,0 +1,6 @@
+framework module Pods_TorresJonathan_Project4 {
+  umbrella header "Pods-TorresJonathan_Project4-umbrella.h"
+
+  export *
+  module * { export * }
+}
