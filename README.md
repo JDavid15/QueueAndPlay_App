@@ -1,7 +1,5 @@
 # QueueAndPlay_App
 
-This was the app I created for my Apple Project Final in my University.
-
 QueueAndPlay is an app for iPhone and Apple tablets that allow one user to host a lobby and allow other users to create a playlist to play on the host device. This primary purpose of this is for party hosts can let other people select what music they wish to hear.
 
 Requirements:
